@@ -11,12 +11,7 @@ A **Python-based password generator** with a **GUI (Tkinter)** that creates secu
 ✅ **Avoid Ambiguous Characters** – Improve readability  
 ✅ **Copy to Clipboard** – One-click copy  
 ✅ **Save to File** – Store your passwords safely  
-
----
-
-## 🎥 Preview  
-![Password Generator GUI](https://user-images.githubusercontent.com/your-image.png) *(Add a screenshot if needed!)*  
-
+ 
 ---
 
 ## 🛠 Installation & Setup  
